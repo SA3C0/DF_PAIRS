@@ -22,10 +22,10 @@
 
 ```csharp
 pyspark_products_categories/
-├── README.md
 ├── main.py
 ├── utils/
-│ └── processing.py
+│   └── processing.py
+README.md
 ```
 
 - `main.py` — точка входа, запускает Spark-сессию, создает пример данных и выводит результат.
